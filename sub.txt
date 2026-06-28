@@ -1,0 +1,8 @@
+#profile-title: SecureVPN
+#profile-update-interval: 12
+#remarks: Безлимит | До 28.06.2026 20:00 | Продлить: @SecureDaVpnBot
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?type=tcp&encryption=none&security=reality&fp=firefox&sni=example.com&sid=0000&spx=%2F&flow=xtls-rprx-vision#📅 До 28.06.2026 20:00
+vless://c05e4668-fa04-451e-98c4-4cee35b50513@nde.adrtun.ru:443?type=tcp&security=reality&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=abalak.su#🇩🇪 Германия
+vless://c05e4668-fa04-451e-98c4-4cee35b50513@pin.adrtun.ru:443?type=tcp&security=reality&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=g-u.su#🇷🇺 Россия
+vless://3fdb6696-0d52-42d4-a8cc-8930f571894f@193.41.68.133:443?type=ws&encryption=none&path=%2F#🇫🇮 Финляндия
